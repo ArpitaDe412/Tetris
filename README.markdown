@@ -39,7 +39,7 @@ This project showcases core game development concepts, including game loops, rea
 
 ## 📸 Screenshots
 
-[App Screen](app.png)
+![App Screen](app.png)
 
 ---
 
