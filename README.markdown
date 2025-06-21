@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?logo=python)](https://www.python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.0+-00cc00)](https://www.pygame.org)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 A classic single-player **Tetris game clone** built with **Python 3** and **Pygame** as part of a B.Sc. (Honours) final semester project at Panchmura Mahavidyalaya, Bankura University (2024–2025).  
 
@@ -19,8 +18,6 @@ This project showcases core game development concepts, including game loops, rea
 - [📁 Project Structure](#-project-structure)
 - [💡 Educational Insights](#-educational-insights)
 - [🛠️ Future Improvements](#-future-improvements)
-- [📜 License](#-license)
-- [🙋‍♀️ Author](#-author)
 
 ---
 
@@ -42,11 +39,7 @@ This project showcases core game development concepts, including game loops, rea
 
 ## 📸 Screenshots
 
-> _Add screenshots to the `screenshots/` folder and update links below._
-
-| Gameplay | Game Over |
-|----------|-----------|
-| ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
+[App Screen](app.png)
 
 ---
 
@@ -106,10 +99,9 @@ python main.py
 ```
 ├── Assets/               # PNG images for tetromino blocks
 ├── Fonts/                # Custom and system font files
-├── screenshots/          # Gameplay screenshots (optional)
 ├── main.py               # Main game source code
-├── LICENSE               # License file (e.g., MIT)
-└── README.md             # Project documentation (this file)
+├── app.png               # Main game source code
+└── README.markdown             # Project documentation (this file)
 ```
 
 ---
@@ -137,24 +129,6 @@ This project serves as both a playable game and an educational tool, demonstrati
 - 👥 Add multiplayer functionality  
 - 🌈 Introduce custom themes and piece skins  
 - 🌟 Enhance visuals for line clears and level-ups  
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Developed for educational purposes as part of a university curriculum. Feel free to fork, study, or reuse for **non-commercial** purposes with attribution.
-
----
-
-## 🙋‍♀️ Author
-
-**👩‍🎓 Arpita De**  
-B.Sc. (Honours) in Computer Science  
-**UID:** 22133115009  
-**College ID:** 1132211026  
-**Institution:** Panchmura Mahavidyalaya, Bankura University  
-**Academic Year:** 2024–2025  
 
 ---
 
